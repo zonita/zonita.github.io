@@ -1,0 +1,103 @@
+/*
+ * Zonita site customization.
+ *
+ * Most of this stuff learned from: http://www.w3schools.com/css
+ */
+
+* {
+    font-family: sans-serif;
+}
+
+/* Handle small screens */
+@media only screen and (max-width: 600px) {
+    /* Hide logo */
+    img.logo {
+        display: none;
+    }
+
+    /* Reduce font sizes */
+    h1, h2, h3, p.rubric {
+        font-size: 18px;
+    }
+
+    p, li, footer, table.docutils {
+        font-size: 14px;
+    }
+
+    /* Decrease margins */
+    div.body-content, div.container {
+        margin-top: 0;
+        padding: 5px 5px;
+    }
+}
+
+body {
+    /* Background */
+    background-color: black;
+    background-image: url("curtains.jpg");
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-position: 0px 0px;
+}
+
+hr {
+    /* Horizontal rules */
+    height: 15px;
+    border: 10px;
+    box-shadow: inset 0 12px 12px -12px rgba(9, 84, 132);
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+div.sidebar {
+    /* Sidebars */
+    width: 45%;
+}
+
+.body-content {
+    /* Main content */
+    background-color: #FDFFE1;
+    margin-top: 50px;
+    padding: 20px 20px;
+
+    /*
+     * Decorative top/bottom borders.
+     * See https://amethystwebsitedesign.com/decorative-borders-with-only-css-and-no-images
+     */
+    border-top: 5px dotted #a5a5a5;
+    border-bottom: 5px dotted #a5a5a5;
+    box-shadow: inset 0 -1px 0 0 #a5a5a5, inset 0 1px 0 0 #a5a5a5, 0 1px 0 0 #a5a5a5, 0 -1px 0 0 #a5a5a5;
+}
+
+.navbar {
+    /* Top navigation bar */
+    background-color: #900000;
+}
+
+.navbar-inverse .navbar-nav > .active > a {
+    /* Highlighted selection in navigation bar */
+    background-color: #B00000;
+}
+
+.navbar-inverse .navbar-nav > .active > a:focus {
+    /* Highlighted selection in navigation bar */
+    background-color: #B00000;
+}
+
+/*
+ * Replace Zonita text with the logo.
+ * Ideas from https://css-tricks.com/css-image-replacement
+ */
+.navbar > .container .navbar-brand {
+    width: 200px; height: 50px;
+    position: relative;
+    font-size: 0;
+}
+
+.navbar-brand span {
+    background: url("zonita.png") no-repeat;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}

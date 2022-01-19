@@ -1,0 +1,4 @@
+Sitemap: http://zonita.org.uk/sitemapindex.xml
+
+User-Agent: *
+Host: zonita.org.uk

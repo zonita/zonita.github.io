@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Zonita (Website-related)</title><link>http://zonita.org.uk/</link><description>Posts about the Zonita website itself.</description><atom:link href="http://zonita.org.uk/categories/website.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Sun, 26 Dec 2021 10:11:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Change of email address</title><link>http://zonita.org.uk/news/change-of-email-address.html</link><dc:creator>Glenn Hutchings</dc:creator><description>&lt;p&gt;You may or may not be aware that we have recently had problems with our
+email system, and missed some bookings for the February showing.  As a
+result, we've decided to move the Zonita email address to a more reliable
+one, at &lt;a class="reference external" href="mailto:zonitacinema@gmail.com"&gt;zonitacinema@gmail.com&lt;/a&gt;.  You can also send email to the Zonita's
+Facebook email address: &lt;a class="reference external" href="mailto:zonita.ampthill@gmail.com"&gt;zonita.ampthill@gmail.com&lt;/a&gt;.  The old
+&lt;a class="reference external" href="mailto:info@zonita.org.uk"&gt;info@zonita.org.uk&lt;/a&gt; address &lt;em&gt;may&lt;/em&gt; still work for now, and will still be
+shown on posters for a while, but we ask that you use the new address when
+reserving tickets and tables from now on.&lt;/p&gt;</description><category>mainpage</category><category>website</category><guid>http://zonita.org.uk/news/change-of-email-address.html</guid><pubDate>Sat, 15 Feb 2020 13:44:04 GMT</pubDate></item><item><title>Site is up again</title><link>http://zonita.org.uk/news/site-is-up-again.html</link><dc:creator>Glenn Hutchings</dc:creator><description>&lt;div&gt;&lt;p&gt;Well, if you're reading this, the site is back up again.  It has been
+unavailable since the 5th October, when our web host had a file system
+failure.&lt;/p&gt;
+&lt;p&gt;Sorry about the inconvenience!  Unfortunately there was nothing we could do
+about it except wait for the problem to be resolved.  Judging by the
+frequency of previous problems (which you can see &lt;a class="reference external" href="https://www.freehosting.com/client/serverstatus.php?view=resolved"&gt;here&lt;/a&gt;), this amount of
+downtime was pretty unusual.&lt;/p&gt;&lt;/div&gt;</description><category>mainpage</category><category>website</category><guid>http://zonita.org.uk/news/site-is-up-again.html</guid><pubDate>Thu, 19 Oct 2017 18:09:31 GMT</pubDate></item><item><title>Website improvements</title><link>http://zonita.org.uk/news/site-update.html</link><dc:creator>Glenn Hutchings</dc:creator><description>&lt;div&gt;&lt;p&gt;I've added a few new features recently.  On the main page:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;You can see what films are on at the next showing, and when it is&lt;/li&gt;
+&lt;li&gt;There's a summary of the most recent news items (like this one)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For each movie on the &lt;a class="reference external" href="http://zonita.org.uk/whats-on.html"&gt;What's On&lt;/a&gt; page:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;There's a movie rating icon, which links to the BBFC guide for that
+rating&lt;/li&gt;
+&lt;li&gt;Next to the rating, there's a list of genres for the movie&lt;/li&gt;
+&lt;li&gt;There's also a link to the YouTube trailer (if available)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you have any ideas for other stuff you'd like to see on the site, let me
+know (at the usual email address below).&lt;/p&gt;&lt;/div&gt;</description><category>mainpage</category><category>website</category><guid>http://zonita.org.uk/news/site-update.html</guid><pubDate>Fri, 29 Jul 2016 09:16:36 GMT</pubDate></item><item><title>Hello!</title><link>http://zonita.org.uk/news/hello.html</link><dc:creator>Glenn Hutchings</dc:creator><description>&lt;div&gt;&lt;p&gt;Welcome to the new Zonita website.  The old one recently lost its
+maintainer, and someone finally volunteered to take over (er, that's me).&lt;/p&gt;
+&lt;p&gt;I hope that this site is more readable and useful, and would appreciate
+feedback (improvements, ideas for more pages, or any problems you find).
+You can either leave a comment using the link above, or email me at
+&lt;a class="reference external" href="mailto:zondo42@gmail.com"&gt;zondo42@gmail.com&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>website</category><guid>http://zonita.org.uk/news/hello.html</guid><pubDate>Fri, 11 Dec 2015 17:57:20 GMT</pubDate></item></channel></rss>
